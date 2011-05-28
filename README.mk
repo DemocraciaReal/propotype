@@ -1,16 +1,41 @@
-Read Democracy prototype I
+Real Democracy
 ===========================                                                     
 
-Real democracy in its core meaning is nothing more that this: Each person of a population represents himself and so has the right to vote over all significative decisions in the day to day activity of the government. 
+Real democracy in its core meaning is nothing more that this: Each person of a population represents himself and so has the right to vote over all significant decisions in the day to day activity of the government. 
 
-That was an utopia 100 hundred years ago because of practical impediments. It was simply impossible for the entire population of a country – or a significant part of it – to cast a vote many times a week. There was no technology to support that. People would have to travel miles in order to casta  vote and then go back. That would be a nonsense.
+That was an utopia 100 hundred years ago because of practical impediments. It was simply impossible for the entire population of a country – or a significant part of it – to cast a vote many times a week. There was no technology to support that. People would have to travel miles in order to cast a vote and then go back. That would be a nonsense; so political parties were created in order to represent subsets of the population.
 
-But this the XXI century and internet has made possible for people in very distant places to communicate with each other. 
+But this the XXI century and internet has made possible for people in very distant places to communicate with each other. Current technology can make possible for any number of people to vote without having to travel. All is needed is to push a button. Real democracy is technologically achievable with the current state of technology. 
 
-We believe that technology can help to support a real democracy.
+We believe that technology can help to support a real democracy and it is the objective of this group to analyse and implement what is needed in order to achieve real democracy.      
 
-This project is a prototype of a software to support  a Real Democracy. The objective of this project is to gain practical knowledge of the problem that we want solve: What features does it need to be implemented in a web software in order to make possible a real democracy – active participation of a large population over the significative decisions that the government makes.
+Objectives of this project
+===========================
 
+Technology is a tool. Internet enable us to communicate but in order to achieve a real democracy that can get things done we need more than that. We need processes and tools.
+
+We need a need a formal process that people can follow in order to propose new ideas, vote them and validate them.
+
+We need a tool that people can use to exercise their rights to real democracy.
+
+The objective of this project is to create a formal process and to implement a tool to support that process.
+                                                                                                            
+Community
+==========================
+                                                       
+Google group:
+https://groups.google.com/group/real-democracy?msg=new&lnk=gcis&hl=es
+                                               
+Code:
+https://github.com/DemocraciaReal/RealDemocracy
+
+Project management:
+https://www.pivotaltracker.com/projects/295165/settings
+
+Issues
+========================== 
+
+Bugs, feature request, ideas, comments -> 
 
 Development Guidelines
 ==========================
