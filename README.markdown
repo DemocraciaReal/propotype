@@ -35,7 +35,7 @@ https://www.pivotaltracker.com/projects/295165/settings
 Issues
 ========================== 
 
-Bugs, feature request, ideas, comments -> 
+Bugs, feature request, ideas, comments -> https://github.com/DemocraciaReal/propotype/issues
 
 Development Guidelines
 ==========================
