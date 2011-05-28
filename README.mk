@@ -5,16 +5,16 @@ Real democracy in its core meaning is nothing more that this: Each person of a p
 
 That was an utopia 100 hundred years ago because of practical impediments. It was simply impossible for the entire population of a country – or a significant part of it – to cast a vote many times a week. There was no technology to support that. People would have to travel miles in order to cast a vote and then go back. That would be a nonsense; so political parties were created in order to represent subsets of the population.
 
-But this the XXI century and internet has made possible for people in very distant places to communicate with each other. Current technology can make possible for any number of people to vote without having to travel. All is needed is to push a button. Real democracy is technologically achievable with the current state of technology. 
+But we are in the XXI century and internet has made possible for people in very distant places to communicate with each other in real time. Current technology can make it possible for any number of people to vote without having to travel. All is they need to do is to push a button. Real democracy is technologically achievable with the current state of technology. 
 
-We believe that technology can help to support a real democracy and it is the objective of this group to analyse and implement what is needed in order to achieve real democracy.      
+We believe that technology can help to support a real democracy and it is the objective of this group to analyse and implement what is needed in order to provide tools to support real democracy.
 
 Objectives of this project
 ===========================
 
-Technology is a tool. Internet enable us to communicate but in order to achieve a real democracy that can get things done we need more than that. We need processes and tools.
+Technology is a tool. Internet enable us to communicate but in order to achieve a real democracy that can get things done we need more than that. We need formal processes and tools.
 
-We need a need a formal process that people can follow in order to propose new ideas, vote them and validate them.
+We need a formal process that people can follow in order to propose new ideas, vote them and validate them.
 
 We need a tool that people can use to exercise their rights to real democracy.
 
