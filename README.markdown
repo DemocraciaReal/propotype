@@ -23,14 +23,21 @@ The objective of this project is to create a formal process and to implement a t
 Community
 ==========================
                                                        
-Google group:
-https://groups.google.com/group/real-democracy?msg=new&lnk=gcis&hl=es
-                                               
-Code:
-https://github.com/DemocraciaReal/RealDemocracy
+__Google group:__
 
-Project management:
-https://www.pivotaltracker.com/projects/295165/settings
+https://groups.google.com/group/real-democracy
+                                               
+__Code:__
+
+https://github.com/DemocraciaReal/propotype
+
+__Project management:__
+
+https://www.pivotaltracker.com/projects/295165/settings    
+
+__IRC room:__
+
+ #realdemocracy
 
 Issues
 ========================== 
