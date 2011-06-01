@@ -1,5 +1,9 @@
-shared_context "when he interacts with an existing proposal" do
+require File.expand_path(File.dirname(__FILE__) + '/..' + '/acceptance_helper')
+
+feature "Voting proposals" do
   before(:each) do
+    #@user = User.make!       
+    #register_and_log_in(@user.name, @user.password)
     @proposal = Proposal.make!
     visit('/')
     click_link('proposals')
