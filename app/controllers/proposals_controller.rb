@@ -1,0 +1,3 @@
+class ProposalsController < ApplicationController
+  
+end
