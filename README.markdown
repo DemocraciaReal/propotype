@@ -45,7 +45,9 @@ Issues
 Bugs, feature request, ideas, comments -> https://github.com/DemocraciaReal/propotype/issues
 
 Development Guidelines
-==========================
+==========================    
+
+We follow the Behaviour Driven Development agile methodology.
 
 To add features: 
 
@@ -54,4 +56,36 @@ To add features:
 3. Create acceptance tests
 4. Make the tests pass
 5. Commit
-6. Send pull request
+6. Send pull request       
+
+Development References
+=============
+            
+There are a couple of technologies and methodologies that we follow.
+
+### Rails
+
+The version of rails is >=3.1.0
+                                              
+### Testing
+* [RSpec](http://relishapp.com/rspec, 'rspec')
+* [The RSpec Book](http://pragprog.com/titles/achbd/the-rspec-book, 'The RSpec Book')
+* [RVM](http://rvm.beginrescueend.com/, 'RVM)
+* [Spork](https://github.com/timcharper/spork, 'Spork)
+* [Capybara](https://github.com/jnicklas/capybara, 'Capybara') 
+* [Machinist2](https://github.com/notahat/machinist, 'Machinist')   
+
+### Authentication
+* [Devise](https://github.com/plataformatec/devise, 'Devise)
+
+### Database    
+* [MongodDB](http://www.mongodb.org/, 'MongoDB')
+* [Mongoid](http://mongoid.org/, 'Mongoid')    
+
+### Javascript
+* [Jquery](http://jquery.com/, 'Jquery')
+* [CoffeScript](http://coffeescript.org/, 'CoffeScript')                         
+
+### Views
+* [Haml](http://haml-lang.com/, 'Haml')
+* [Sass](http://sass-lang.com/, 'Sass') – .sass syntax
