@@ -12,7 +12,10 @@ module HelperMethods
     log_user_in(username, password)
   end
   
-  def fill_in_form_for_proposal(proposal)
+  def fill_in_form_for_new_proposal(proposal)
+    fill_in('Title', :with=>proposal.title)
+    fill_in('Description', :with=>proposal.description)
+    click_button('Create Proposal')
   end
 end
 

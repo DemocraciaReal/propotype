@@ -5,7 +5,7 @@ feature "Creating a new Proposal" do
     #@user = User.make!       
     #register_and_log_in(@user.name, @user.password)
     visit('/')
-    click_link('new proposal')
+    click_link('New Proposal')
   end                  
   
   context "it should not be created" do
@@ -25,6 +25,10 @@ feature "Creating a new Proposal" do
   context "it should be created and" do
     before(:each) do
       @proposal = fill_in_form_for_new_proposal(Proposal.make())
+    end
+    
+    it "should show a success message" do
+      page.should have_content('New Proposal created')
     end                                            
 
     it "should have 0 votes" do
