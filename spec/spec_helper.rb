@@ -17,18 +17,23 @@ Spork.prefork do
   Dir[Rails.root.join("spec/support/**/*.rb")].each {|f| require f}
 
   RSpec.configure do |config|
-    config.mock_with :rspec 
+    config.mock_with :rspec
+    
+    config.before :each do
+        Mongoid.master.collections.select do |collection|
+          collection.name !~ /system/
+        end.each(&:drop)
+    end 
     
     ActiveSupport::Dependencies.clear
-  end
-  
-
+  end  
 end
 
 Spork.each_run do
   # This code will be run each time you run your specs.    
   
-  load "#{Rails.root}/config/routes.rb"
+  load "#{Rails.root}/config/routes.rb"               
+  load "#{Rails.root}/spec/support/blueprints.rb"
   Dir["#{Rails.root}/app/**/*.rb"].each { |f| load f }
 
 end
