@@ -10,6 +10,8 @@ gem 'uglifier'
 gem "haml-rails"
 gem 'mongoid'
 gem "bson_ext"
+gem 'therubyracer'
+
 gem 'jquery-rails'
 gem "simple_form"
 
